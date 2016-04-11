@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vSimple_Circuit
+Z0 !s110 1460386111
+!i10b 1
+!s100 IUZ=>=jA3a2k31RMPHF090
+I]^lH@9b9gi=jB6PPzFh:81
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/GitHub/verilog/Lab0
+w1446810371
+8D:/GitHub/verilog/Lab0/Simple_Circuit.v
+FD:/GitHub/verilog/Lab0/Simple_Circuit.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1460386111.000000
+!s107 D:/GitHub/verilog/Lab0/Simple_Circuit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab0/Simple_Circuit.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@simple_@circuit
+vt_Simple_Circuit
+R0
+!i10b 1
+!s100 1;DHFlZS>QZ;]bACnoa[I1
+IAIXXi84jXl7jWCaJQ16nn3
+R1
+R2
+w1458891272
+8D:/GitHub/verilog/Lab0/t_Simple_Circuit.v
+FD:/GitHub/verilog/Lab0/t_Simple_Circuit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/GitHub/verilog/Lab0/t_Simple_Circuit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab0/t_Simple_Circuit.v|
+!s101 -O0
+!i113 1
+R5
+nt_@simple_@circuit
