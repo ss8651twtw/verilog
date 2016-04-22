@@ -1,0 +1,15 @@
+D:/GitHub/verilog/Lab1/t_Simple_Circuit.v {1 {vlog -work work -stats=none D:/GitHub/verilog/Lab1/t_Simple_Circuit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module t_Simple_Circuit
+
+Top level modules:
+	t_Simple_Circuit
+
+} {} {}} D:/GitHub/verilog/Lab1/Simple_Circuit.v {1 {vlog -work work -stats=none D:/GitHub/verilog/Lab1/Simple_Circuit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Simple_Circuit
+
+Top level modules:
+	Simple_Circuit
+
+} {} {}}
