@@ -1,0 +1,22 @@
+D:/GitHub/verilog/Lab1/Lab1_gate_level_UDP.v {1 {vlog -work work -stats=none D:/GitHub/verilog/Lab1/Lab1_gate_level_UDP.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Lab1_gate_level_UDP
+
+Top level modules:
+	Lab1_gate_level_UDP
+
+} {} {}} D:/GitHub/verilog/Lab1/Lab1_UDP.v {1 {vlog -work work -stats=none D:/GitHub/verilog/Lab1/Lab1_UDP.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling UDP Lab1_UDP
+
+Top level modules:
+	--none--
+
+} {} {}} D:/GitHub/verilog/Lab1/t_Lab1_gate_level_UDP.v {1 {vlog -work work -stats=none D:/GitHub/verilog/Lab1/t_Lab1_gate_level_UDP.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module t_Lab1_gate_level_UDP
+
+Top level modules:
+	t_Lab1_gate_level_UDP
+
+} {} {}}
