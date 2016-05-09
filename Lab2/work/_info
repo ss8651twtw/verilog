@@ -1,0 +1,230 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vLab2_BCD_adder_behavior
+Z0 !s110 1462460015
+!i10b 1
+!s100 ?[OCF@7[Af;HLg=WIzNcR1
+Ig5BhIcGlK<LVzWm]lHIF71
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/GitHub/verilog/Lab2
+w1462459989
+8D:/GitHub/verilog/Lab2/Lab2_BCD_adder_behavior.v
+FD:/GitHub/verilog/Lab2/Lab2_BCD_adder_behavior.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1462460015.000000
+!s107 D:/GitHub/verilog/Lab2/Lab2_BCD_adder_behavior.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab2/Lab2_BCD_adder_behavior.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@lab2_@b@c@d_adder_behavior
+vLab2_full_sub
+R0
+!i10b 1
+!s100 @TmS8Ad1dHlFT^WSR3`==0
+IBHzI?T:?bfdTP5OHVKZSO2
+R1
+R2
+w1462382316
+8D:/GitHub/verilog/Lab2/Lab2_full_sub.v
+FD:/GitHub/verilog/Lab2/Lab2_full_sub.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/GitHub/verilog/Lab2/Lab2_full_sub.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab2/Lab2_full_sub.v|
+!s101 -O0
+!i113 1
+R5
+n@lab2_full_sub
+vLab2_half_sub_behavior
+Z6 !s110 1462460016
+!i10b 1
+!s100 lD>R?l8cIKfOh>;Olgg]^0
+I?JnAjZMJoUKfMj^aD`>Q>2
+R1
+R2
+w1462382087
+8D:/GitHub/verilog/Lab2/Lab2_half_sub_behavior.v
+FD:/GitHub/verilog/Lab2/Lab2_half_sub_behavior.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/GitHub/verilog/Lab2/Lab2_half_sub_behavior.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab2/Lab2_half_sub_behavior.v|
+!s101 -O0
+!i113 1
+R5
+n@lab2_half_sub_behavior
+vLab2_half_sub_dataflow
+R6
+!i10b 1
+!s100 jD]DU?HQ=L_T0:[zLWQND2
+I9^Ej:MR@OoUL<G0ejRYKF1
+R1
+R2
+w1462381985
+8D:/GitHub/verilog/Lab2/Lab2_half_sub_dataflow.v
+FD:/GitHub/verilog/Lab2/Lab2_half_sub_dataflow.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1462460016.000000
+!s107 D:/GitHub/verilog/Lab2/Lab2_half_sub_dataflow.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab2/Lab2_half_sub_dataflow.v|
+!s101 -O0
+!i113 1
+R5
+n@lab2_half_sub_dataflow
+vLab2_half_sub_gatelevel
+R6
+!i10b 1
+!s100 KPzcb8>Y=XXNmOcJQ>_gl3
+IRR9UgnW=oJR<WZdka1LdM1
+R1
+R2
+w1462382033
+8D:/GitHub/verilog/Lab2/Lab2_half_sub_gatelevel.v
+FD:/GitHub/verilog/Lab2/Lab2_half_sub_gatelevel.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/GitHub/verilog/Lab2/Lab2_half_sub_gatelevel.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab2/Lab2_half_sub_gatelevel.v|
+!s101 -O0
+!i113 1
+R5
+n@lab2_half_sub_gatelevel
+vLab2_ripple_borrow_4_bit_sub
+R6
+!i10b 1
+!s100 fj>>?GFkK9_TzM97NkacT1
+InT=hP>5X4<BNfkEWbBi<L3
+R1
+R2
+w1462294077
+8D:/GitHub/verilog/Lab2/Lab2_ripple_borrow_4_bit_sub.v
+FD:/GitHub/verilog/Lab2/Lab2_ripple_borrow_4_bit_sub.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/GitHub/verilog/Lab2/Lab2_ripple_borrow_4_bit_sub.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab2/Lab2_ripple_borrow_4_bit_sub.v|
+!s101 -O0
+!i113 1
+R5
+n@lab2_ripple_borrow_4_bit_sub
+vt_Lab2_BCD_adder_behavior
+R6
+!i10b 1
+!s100 X<f;<Y45j`7[1j[:LSQRW1
+IZN9Xh<`IFZW9N3BmCZad:2
+R1
+R2
+w1462296608
+8D:/GitHub/verilog/Lab2/t_Lab2_BCD_adder_behavior.v
+FD:/GitHub/verilog/Lab2/t_Lab2_BCD_adder_behavior.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/GitHub/verilog/Lab2/t_Lab2_BCD_adder_behavior.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab2/t_Lab2_BCD_adder_behavior.v|
+!s101 -O0
+!i113 1
+R5
+nt_@lab2_@b@c@d_adder_behavior
+vt_Lab2_full_sub
+R6
+!i10b 1
+!s100 Q[h6o1CdD?3=9fF>H0SF81
+IXPgimA]M;[naS^CYM5]kQ2
+R1
+R2
+w1462291353
+8D:/GitHub/verilog/Lab2/t_Lab2_full_sub.v
+FD:/GitHub/verilog/Lab2/t_Lab2_full_sub.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/GitHub/verilog/Lab2/t_Lab2_full_sub.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab2/t_Lab2_full_sub.v|
+!s101 -O0
+!i113 1
+R5
+nt_@lab2_full_sub
+vt_Lab2_half_sub
+R6
+!i10b 1
+!s100 dSamcHcKO=FCZG]b>iODI0
+I1Mbm5e60S@W`b3CR7]@Zd0
+R1
+R2
+w1462381310
+8D:/GitHub/verilog/Lab2/t_Lab2_half_sub.v
+FD:/GitHub/verilog/Lab2/t_Lab2_half_sub.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/GitHub/verilog/Lab2/t_Lab2_half_sub.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab2/t_Lab2_half_sub.v|
+!s101 -O0
+!i113 1
+R5
+nt_@lab2_half_sub
+vt_Lab2_ripple_borrow_4_bit_sub
+R6
+!i10b 1
+!s100 V@=<Y]mI^;`Wb6gb247?M0
+IFJ3CJQCd]LWWz1ZmeT7bl2
+R1
+R2
+w1462295030
+8D:/GitHub/verilog/Lab2/t_Lab2_ripple_borrow_4_bit_sub.v
+FD:/GitHub/verilog/Lab2/t_Lab2_ripple_borrow_4_bit_sub.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 D:/GitHub/verilog/Lab2/t_Lab2_ripple_borrow_4_bit_sub.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab2/t_Lab2_ripple_borrow_4_bit_sub.v|
+!s101 -O0
+!i113 1
+R5
+nt_@lab2_ripple_borrow_4_bit_sub
