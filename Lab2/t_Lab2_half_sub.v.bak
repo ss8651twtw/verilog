@@ -1,0 +1,37 @@
+module t_Lab2_half_sub;
+    wire D, B;
+    reg X, Y;
+    Lab2_half_sub_gatelevel M1;
+    Lab2_half_sub_dataflow M2;
+    Lab2_half_sub_behavior M3;
+    initial begin
+        M1((D, B, X, Y));
+        X=1'b0;	Y=1'b0;
+        #100
+        X=1'b0;	Y=1'b1;
+        #100
+        X=1'b1;	Y=1'b0;
+        #100
+        X=1'b1;	Y=1'b1;
+        #100
+        M2(D, B, X, Y);
+        X=1'b0;	Y=1'b0;
+        #100
+        X=1'b0;	Y=1'b1;
+        #100
+        X=1'b1;	Y=1'b0;
+        #100
+        X=1'b1;	Y=1'b1;
+        #100
+        M3(D, B, X, Y);
+        X=1'b0;	Y=1'b0;
+        #100
+        X=1'b0;	Y=1'b1;
+        #100
+        X=1'b1;	Y=1'b0;
+        #100
+        X=1'b1;	Y=1'b1;
+        #100
+        $finish;
+    end
+endmodule
