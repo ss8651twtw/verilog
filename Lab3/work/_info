@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vD_ff_AR
+Z0 !s110 1464708150
+!i10b 1
+!s100 2DGzlE;UlOR64ZbdEX`QD0
+I4nb:8o^C1maYZ^[3QkM^m0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/GitHub/verilog/Lab3
+w1464628163
+8D:/GitHub/verilog/Lab3/D_ff_AR.v
+FD:/GitHub/verilog/Lab3/D_ff_AR.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1464708150.000000
+!s107 D:/GitHub/verilog/Lab3/D_ff_AR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab3/D_ff_AR.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@d_ff_@a@r
+vLab3_Moore_state_diagram
+R0
+!i10b 1
+!s100 WKGe2fLPL8`DFHk5`WT5g2
+IXLK;RoMm@f3EIz@[P[9WU2
+R1
+R2
+w1464632398
+8D:/GitHub/verilog/Lab3/Lab3_Moore_state_diagram.v
+FD:/GitHub/verilog/Lab3/Lab3_Moore_state_diagram.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/GitHub/verilog/Lab3/Lab3_Moore_state_diagram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab3/Lab3_Moore_state_diagram.v|
+!s101 -O0
+!i113 1
+R5
+n@lab3_@moore_state_diagram
+vLab3_Moore_structural
+R0
+!i10b 1
+!s100 h1_RGN_aB@cnE[:PBoCe_2
+IT5zc0;33fFL0M3:TBaHjX3
+R1
+R2
+w1464707564
+8D:/GitHub/verilog/Lab3/Lab3_Moore_structural.v
+FD:/GitHub/verilog/Lab3/Lab3_Moore_structural.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/GitHub/verilog/Lab3/Lab3_Moore_structural.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab3/Lab3_Moore_structural.v|
+!s101 -O0
+!i113 1
+R5
+n@lab3_@moore_structural
+vt_Lab3_Moore
+R0
+!i10b 1
+!s100 Jo[z2R7gCe7_XF7;fcEKH3
+IT3h=OFLn=5bAX_^<]Ib_k1
+R1
+R2
+w1464708142
+8D:/GitHub/verilog/Lab3/t_Lab3_Moore.v
+FD:/GitHub/verilog/Lab3/t_Lab3_Moore.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/GitHub/verilog/Lab3/t_Lab3_Moore.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/GitHub/verilog/Lab3/t_Lab3_Moore.v|
+!s101 -O0
+!i113 1
+R5
+nt_@lab3_@moore
