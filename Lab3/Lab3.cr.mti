@@ -1,0 +1,29 @@
+D:/GitHub/verilog/Lab3/D_ff_AR.v {1 {vlog -work work -stats=none D:/GitHub/verilog/Lab3/D_ff_AR.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module D_ff_AR
+
+Top level modules:
+	D_ff_AR
+
+} {} {}} D:/GitHub/verilog/Lab3/t_Lab3_Moore.v {1 {vlog -work work -stats=none D:/GitHub/verilog/Lab3/t_Lab3_Moore.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module t_Lab3_Moore
+
+Top level modules:
+	t_Lab3_Moore
+
+} {} {}} D:/GitHub/verilog/Lab3/Lab3_Moore_structural.v {1 {vlog -work work -stats=none D:/GitHub/verilog/Lab3/Lab3_Moore_structural.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Lab3_Moore_structural
+
+Top level modules:
+	Lab3_Moore_structural
+
+} {} {}} D:/GitHub/verilog/Lab3/Lab3_Moore_state_diagram.v {1 {vlog -work work -stats=none D:/GitHub/verilog/Lab3/Lab3_Moore_state_diagram.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Lab3_Moore_state_diagram
+
+Top level modules:
+	Lab3_Moore_state_diagram
+
+} {} {}}
