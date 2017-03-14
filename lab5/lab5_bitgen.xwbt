@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Di\Desktop\D_lab_assistant\6\lab5\lab5.ncd
+OUTFILE=C:\Users\Di\Desktop\D_lab_assistant\6\lab5\lab5.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=C:\Users\Di\Desktop\D_lab_assistant\6\lab5
+LICENSE=ISE
+USER_INFO=176260002_206273227_210578250_369

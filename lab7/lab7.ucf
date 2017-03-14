@@ -1,0 +1,20 @@
+
+# PlanAhead Generated physical constraints
+NET "clk"    LOC = C9  | IOSTANDARD = LVCMOS33;
+NET "reset"  LOC = K17 | IOSTANDARD = LVTTL | PULLDOWN;
+NET "button" LOC = D18 | IOSTANDARD = LVTTL | PULLDOWN;
+
+# LCD control inputs
+NET "LCD_E" 	LOC = M18 | IOSTANDARD = LVCMOS33 | DRIVE = 4 | SLEW = SLOW ;
+NET "LCD_RS" 	LOC = L18 | IOSTANDARD = LVCMOS33 | DRIVE = 4 | SLEW = SLOW ;
+NET "LCD_RW" 	LOC = L17 | IOSTANDARD = LVCMOS33 | DRIVE = 4 | SLEW = SLOW ;
+
+# The LCD four-bit data interface
+NET "LCD_D[0]" 	LOC = R15 | IOSTANDARD = LVCMOS33 | DRIVE = 4 | SLEW = SLOW ;
+NET "LCD_D[1]" 	LOC = R16 | IOSTANDARD = LVCMOS33 | DRIVE = 4 | SLEW = SLOW ;
+NET "LCD_D[2]" 	LOC = P17 | IOSTANDARD = LVCMOS33 | DRIVE = 4 | SLEW = SLOW ;
+NET "LCD_D[3]" 	LOC = M15 | IOSTANDARD = LVCMOS33 | DRIVE = 4 | SLEW = SLOW ;
+
+#Created by Constraints Editor (xc3s500e-fg320-4) - 2015/10/10
+NET "clk" TNM_NET = clk;
+TIMESPEC TS_clk = PERIOD "clk" 20 ns HIGH 40%;

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\xilinx\ise\2016\lab4_sol\lab4.ncd
+OUTFILE=D:\xilinx\ise\2016\lab4_sol\lab4.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=D:\xilinx\ise\2016\lab4_sol
+LICENSE=ISE
+USER_INFO=176260002_206273227_210578250_004
